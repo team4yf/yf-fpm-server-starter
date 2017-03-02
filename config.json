@@ -1,0 +1,14 @@
+{
+  "server":{
+    "port": 9991
+  },
+  "defaultVersion":"0.0.1",
+  "dev": "DEV",
+  "apps": {
+    "123123": {
+      "appkey": "123123",
+      "approot": "*",
+      "secretkey": "123123"
+    }
+  }
+}
